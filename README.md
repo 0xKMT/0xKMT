@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](https://w0.peakpx.com/wallpaper/1022/350/HD-wallpaper-artistic-pixel-art.jpg)
+![Pixel Image](./peakpx.jpg)
 
 ### Hi there! I'm 0xKMT 👋
 
@@ -20,7 +20,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <p align="left"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e1f6e5c-5238-4ecc-a0d5-f2deff1e4fb4/dcge67r-261eb5af-66f8-4786-94ac-bd535876fd45.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img </p>
 
 #### Cloud Platforms
-<p align="left"><img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" alt="AWS" title="AWS" width="40" height="40"/>  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" alt="AZURE" title="AZURE" width="40" height="40"/> <img </p>
+<p align="left"><img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" alt="AWS" title="AWS" width="40" height="40"/>  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" alt="AZURE" title="AZURE" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" alt="GCP" title="GCP" width="40" height="40"/> </p>
+
+#### Project Management Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/></p>
 
 
 - **Cloud**: AWS
