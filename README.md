@@ -44,17 +44,11 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 #### Monitoring
 - **Monitoring**: None
 
-### 🏆 Certifications
+### 🏆 Certifications | 🎖️ Badges
 
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Solutions Architect - Associate
-- HashiCorp Certified: Terraform Associate
+- [CKAD](https://www.credly.com/badges/de4bd6e1-53a6-438a-b7c9-7c982ac03e51/linked_in_profile) <p align="left"><img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKA" title="CKA" width="70" height="70"/> Certified Kubernetes Application Developer </p>
+- [CKA](https://www.credly.com/badges/671107d0-5c35-4f3f-bb48-86d30ba45583/linked_in_profile) <p align="left"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" title="CKA" width="70" height="70"/> Certified Kubernetes Adminitstrator </p>
+- [AWS SAA](https://www.credly.com/badges/f7904c09-240d-4e61-8842-bdc21d4e7d08/public_url) <p align="left"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="SAA" title="SAA" width="70" height="70"/> AWS Certified Solutions Architect - Associate </p>
+- [Terraform Challenges](https://kodekloud.com/certificate-verification/7C938E3767-2D06573A58F8-7C87FDFF67/) <p align="left"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_.png" alt="Terraform" title="Terraform" width="70" height="70"/> Terraform Challenges - KodeKloud </p>
+- [AZ104](https://www.credly.com/badges/68016240-d596-4a9f-a88a-240c89ecf103) <p align="left"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="AZ104" title="AZ104" width="70" height="70"/> Microsoft Certified: Azure Administrator Associate </p>
 
-### 🎖️ Badges
-
-![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
-
-![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
-![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
